@@ -1,21 +1,25 @@
 # [The-GhostCar-An-Autonomous-Car-Project]()
- <br>
+
 ## AIM
 The Aim of this Project was to build a Fully Autonomous Car Simulation using Behavioural Cloning on Convolution Neural Networks Model.
- <br>
+<br>
+
 ## MOTIVATION
 Autonomous cars are a boon for the vision of a smart world. Tesla, BMW, Google, NVIDIA are some of the companies contributing to this technology and have overcome major milestones in developing autonomous vehicles. With the development of autonomous cars, they can cause a huge boost to the transportation and automobile industries and hence we aimed to contribute to the Autonomous Car Development Industry. <br>
- <br>
+<br>
+
 ## CONTENTS
 1) Drive.py - The Python Program hosts a Flask server on Local host to communicate controls to the simulation softwares. <br>
 2) Behavioural Cloning.ipynb - Python Notebook File that shows the procedure and methods developed and used in order to build and train the CNN Model for the Autonomous Car. <br>
 3) Model.h5 - Weights file for several trained models. <br>
- <br>
+<br>
+
 ## MODELS <br>
 1) model1.h5 - Trained over 4053 samples and gives a loss of 0.0743 <br>
 2) model2.h5 - Trained over 8205 samples and gives a loss of 0.369 <br>
 3) model3.h5 - (Best) Trained over 30227 samples and gives a loss of 0.0276 <br>
- <br>
+<br>
+
 <hr>
 #Summary of the Design CNN Model
 <br>
