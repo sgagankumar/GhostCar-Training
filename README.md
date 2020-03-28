@@ -21,7 +21,7 @@ Autonomous cars are a boon for the vision of a smart world. Tesla, BMW, Google, 
 <hr>
 
 # Summary of the Design CNN Model
-Note: The Model Developed is as per the [Nvidia End-to-End Self Driving Car Documentation](www.google.com)
+Note: The Model Developed is as per the [Nvidia End-to-End Self Driving Car Documentation](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
 <br>
 _________________________________________________________________ <br>
 Layer (type)                 Output Shape              Param #    <br>
